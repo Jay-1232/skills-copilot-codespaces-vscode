@@ -1,5 +1,9 @@
-// Create web server 
-// Create web server 
+// Create web server
+// Create router
+// Import controllers
+// Import middlewares
+// Set up routes
+// Export routes
 const express = require('express');
 const router = express.Router();
 const commentController = require('../controllers/commentController');
